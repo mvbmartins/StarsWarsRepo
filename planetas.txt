@@ -6,9 +6,7 @@ Saturno
 Urano
 Netuno
 Plutão
-=======
 Mercurio
 venus
 terra
 marte
->>>>>>> teste_branch

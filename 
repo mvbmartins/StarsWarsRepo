@@ -1,0 +1,54 @@
+[33mcommit d17e5a143dae87b60390404ba5c028f680008d83[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mteste_branch[m[33m)[m
+Author: mvbmartins1985 <mvbmartins@gmail.com>
+Date:   Thu Nov 28 06:54:03 2019 -0300
+
+    Teste de rebase
+
+[33mcommit bd8d3dfff1470bb5b05c46743a121aeef842516f[m
+Author: mvbmartins1985 <mvbmartins@gmail.com>
+Date:   Thu Nov 28 06:52:41 2019 -0300
+
+    Inclusão de dois personagens da 3 fase
+
+[33mcommit 821824c88d976ad1ae533401eb7a6b0a3a621f53[m
+Merge: 09017b7 9ff600b
+Author: mvbmartins1985 <mvbmartins@gmail.com>
+Date:   Thu Nov 28 06:42:02 2019 -0300
+
+    Merge na branch master
+
+[33mcommit 09017b798644199ddb30f9d5867b2abe1bd5630d[m
+Author: mvbmartins1985 <mvbmartins@gmail.com>
+Date:   Thu Nov 28 06:35:23 2019 -0300
+
+    Teste de inclusão de nomes no arquivo personagens
+
+[33mcommit 9ff600ba1bf4f4008296ebd35dd13fb3f287cb0b[m
+Author: mvbmartins1985 <mvbmartins@gmail.com>
+Date:   Thu Nov 28 06:26:05 2019 -0300
+
+    Exercicio 4: Branchs
+
+[33mcommit fd31de99242e13e12ab39089af96f96bbbb06a1c[m
+Author: mvbmartins1985 <mvbmartins@gmail.com>
+Date:   Sat Nov 23 14:11:22 2019 -0300
+
+    teste
+
+[33mcommit c61cc8fd197af98272952f3523cef084c8e25853[m
+Author: mvbmartins1985 <mvbmartins@gmail.com>
+Date:   Sat Nov 23 13:54:23 2019 -0300
+
+    primeiro exercicio de Git
+
+[33mcommit 542df3aac5cde716342e5a42c47f27077137783e[m
+Author: mvbmartins1985 <mvbmartins@gmail.com>
+Date:   Sat Nov 23 13:45:50 2019 -0300
+
+    Teste do curso de GIT
+
+[33mcommit d6c66eccbf4437904f2dcdc8836d209598646589[m
+Author: mvbmartins1985 <mvbmartins@gmail.com>
+Date:   Sat Nov 23 13:19:26 2019 -0300
+
+    Criado o arquivo de personagens
