@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Terra
 Marte
 Jupter
@@ -5,4 +6,7 @@ Saturno
 Urano
 Netuno
 Plutão
-
+Mercurio
+venus
+terra
+marte
